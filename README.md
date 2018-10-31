@@ -1,2 +1,1 @@
-# presidentes_tweets
-Análise de texto das contas de Twitter dos candidatos a presidente 2018
+# Análise de Texto dos Candidatos à Presidência da República do Brasil - Eleições 2018
